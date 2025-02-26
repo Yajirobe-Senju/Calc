@@ -13,11 +13,11 @@ This is a simple calculator implemented in Golang. The calculator supports basic
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Yajirobe-Senju/GoProg.git
+    git clone https://github.com/Yajirobe-Senju/Calc.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd GoProg
+    cd Calc
     ```
 3. Run the calculator:
     ```sh
